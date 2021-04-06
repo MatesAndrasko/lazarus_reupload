@@ -5,12 +5,6 @@
         "tilemapTile": true,
         "displayName": "myTile0"
     },
-    "tile2": {
-        "data": "hwQQABAAAACv/////6+v////r6r6////+qr6/6r6////+v///6r6+v/6/////6r6r/qvqqr/r/+v/6//r/+v/6//r/qv/6/6r///qq////qv+v//r/+v+v+q/6+q/6r6/6+qqv+v+v///////6r//6////+q///////6////r////////6///w==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "myTile"
-    },
     "tile3": {
         "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
         "mimeType": "image/x-mkcd-f4",
@@ -69,6 +63,12 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
+    },
+    "tile2": {
+        "data": "hwQQABAAAACv/////6+v////r6r6////+qr6/6r6////+v///6r6+v/6/////6r6r/qvqqr/r/+v/6//r/+v/6//r/qv/6/6r///qq////qv+v//r/+v+v+q/6+q/6r6/6+qqv+v+v///////6r//6////+q///////6////r////////6///w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "win_portal"
     },
     "level2": {
         "id": "level2",
